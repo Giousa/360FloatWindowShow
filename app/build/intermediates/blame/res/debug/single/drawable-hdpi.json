@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rocket.png",
+        "source": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\src\\main\\res\\drawable-hdpi\\rocket.png"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_bg_fire.png",
+        "source": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\src\\main\\res\\drawable-hdpi\\launcher_bg_fire.png"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\launcher_bg_hold.png",
+        "source": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\src\\main\\res\\drawable-hdpi\\launcher_bg_hold.png"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_big.png",
+        "source": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\src\\main\\res\\drawable-hdpi\\bg_big.png"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_small.png",
+        "source": "D:\\TestWorkspace\\QQFloatWindowDemo\\app\\src\\main\\res\\drawable-hdpi\\bg_small.png"
+    }
+]

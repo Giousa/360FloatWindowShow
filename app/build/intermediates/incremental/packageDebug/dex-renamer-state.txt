@@ -1,0 +1,7 @@
+#Wed Jan 04 15:56:45 CST 2017
+base.0=D\:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_35f604139ceb60852081a32d15c404fe0a2aefa6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1e7eac51b4647db1d776dad05fd771fb4d029fef\\classes.dex
+base.1=D\:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1e7eac51b4647db1d776dad05fd771fb4d029fef
+file.0=D\:\\TestWorkspace\\QQFloatWindowDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_35f604139ceb60852081a32d15c404fe0a2aefa6\\classes.dex
